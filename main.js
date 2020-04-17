@@ -1,6 +1,6 @@
 function redirect() {
     setTimeout(()=>{
-        window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSficB2FlXya2g83VikQ9te2CIwIa_aiX7qVkoWOiI-xKw1FlA/viewform?usp=sf_link";
+        window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScB0A3xTrlLmG7NYDG02zShBSC4qygqD1Psl6n4uhJZaHxiXA/viewform?usp=sf_link";
     }, 3000);
 }
 
